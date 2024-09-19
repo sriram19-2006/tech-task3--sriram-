@@ -38,4 +38,4 @@ You are required to edit or add unique features to the dummy site of Startup Sph
    - You will receive extra brownie points for providing a working deployment link.
 
 Changes made some css styles and we added form and added video added changes are by the html css 
-Deploy link :- 
+Deploy link :- https://66eba6a312af5385f2b69bdd--extraordinary-zabaione-5b17f9.netlify.app/
